@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+A new cross platform project.
 
 ## Getting Started
 
